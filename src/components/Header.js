@@ -4,14 +4,13 @@ import PropTypes from 'prop-types'
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
-            <span className="icon fa-code"></span>
+            <span className="icon fa-laptop"></span>
         </div>
         <div className="content">
             <div className="inner">
                 <h1>Benjamin Geyer</h1>
-                    <span className="icon fa-code"></span>
-                    <span className="icon fa-js-square"></span>
-                    <i className="icon fa-js"></i>
+                <i class="fab fa-js"></i>
+                <i class="fab fa-js"></i>
                 <p>
                   About Me
                   <br/>
