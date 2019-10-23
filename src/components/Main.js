@@ -114,6 +114,11 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
+          {
+            // Make sure this works
+            // Contact Form
+            // Formspree (from gatsby docs)
+          }
           <h2 className="major">Contact</h2>
           <form method="post" action="#">
             <div className="field half first">
@@ -137,6 +142,12 @@ class Main extends React.Component {
               </li>
             </ul>
           </form>
+          {
+            // Maybe Bring these to my landing page
+            // Add my resume
+            // My Twitter
+            // Github
+          }
           <ul className="icons">
             <li>
               <a
