@@ -13,14 +13,16 @@ const Header = (props) => (
                 <i class="fab fa-js"></i>
                 <i class="fab fa-js"></i>
                 <p>
-                  About Me
+                  <h4>About Me</h4>
                   <br/>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices. Habitasse platea dictumst quisque sagittis purus sit amet. Sit amet dictum sit amet justo donec enim. In mollis nunc sed id semper risus in. Ipsum faucibus vitae aliquet nec ullamcorper sit. A iaculis at erat pellentesque adipiscing. 
-                  <br/> <br/> <h4>Tech known:</h4>
+                  I am motivated software engineer from Pittsburgh, PA  currently living in beautiful San Diego, CA. I love the web platform and interesting use cases of CS concepts. Functional programming, data engineering and modern web development are some of my favorite topics.
+                  <br/> <br/> <h4>Tech known</h4>
                   <FontAwesomeIcon icon={['fab', 'github']} size="lg"/>  Github <br/>
+                  <FontAwesomeIcon icon={['fab', 'docker']} size="lg"/> Docker <br/>
                   <FontAwesomeIcon icon={['fab', 'js']} size="lg"/> Javascript <br/>
                   <FontAwesomeIcon icon={['fab', 'python']} size="lg"/> Python <br/>
-
+                  <FontAwesomeIcon icon={['fab', 'aws']} size="lg"/> Aws <br/>
+                  <FontAwesomeIcon icon={['fab', 'css3-alt']} size="lg"/> CSS3 <br/>
                 </p>
             </div>
         </div>
@@ -28,7 +30,9 @@ const Header = (props) => (
             <ul>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('intro')}}>Story</a></li>
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('work')}}>Work</a></li>
-                <li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}>About</a></li>
+                {
+                  //<li><a href="javascript:;" onClick={() => {props.onOpenArticle('about')}}>About</a></li>
+                }
                 <li><a href="javascript:;" onClick={() => {props.onOpenArticle('contact')}}>Contact</a></li>
             </ul>
         </nav>
