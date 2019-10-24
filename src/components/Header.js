@@ -17,7 +17,8 @@ const Header = (props) => (
                   <br/>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices. Habitasse platea dictumst quisque sagittis purus sit amet. Sit amet dictum sit amet justo donec enim. In mollis nunc sed id semper risus in. Ipsum faucibus vitae aliquet nec ullamcorper sit. A iaculis at erat pellentesque adipiscing. 
                   <br/> <br/> <h4>Tech known:</h4>
-                  Javascript <FontAwesomeIcon icon={['fab', 'js']} size="lg"/>
+                  <FontAwesomeIcon icon={['fab', 'github']} size="lg"/>  Github <br/>
+                  <FontAwesomeIcon icon={['fab', 'js']} size="lg"/> Javascript <br/>
                 </p>
             </div>
         </div>
