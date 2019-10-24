@@ -120,7 +120,7 @@ class Main extends React.Component {
             // Formspree (from gatsby docs)
           }
           <h2 className="major">Contact</h2>
-          <form method="post" action="#">
+          <form action="https://formspree.io/xwkeolpb" method="POST">
             <div className="field half first">
               <label htmlFor="name">Name</label>
               <input type="text" name="name" id="name" />
@@ -142,40 +142,6 @@ class Main extends React.Component {
               </li>
             </ul>
           </form>
-          {
-            // Maybe Bring these to my landing page
-            // Add my resume
-            // My Twitter
-            // Github
-          }
-          <ul className="icons">
-            <li>
-              <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fa-twitter"
-              >
-                <span className="label">Twitter</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
-                <span className="label">Facebook</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
-                <span className="label">Instagram</span>
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://github.com/codebushi/gatsby-starter-dimension"
-                className="icon fa-github"
-              >
-                <span className="label">GitHub</span>
-              </a>
-            </li>
-          </ul>
           {close}
         </article>
       </div>
