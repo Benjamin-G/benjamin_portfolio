@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
+
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
@@ -16,7 +17,14 @@ const Header = (props) => (
                   <h4>About Me</h4>
                   <br/>
                   I am motivated software engineer from Pittsburgh, PA  currently living in beautiful San Diego, CA. I love the web platform and interesting use cases of CS concepts. Functional programming, data engineering and modern web development are some of my favorite topics.
-                  <br/> <br/> <h4>Tech known</h4>
+                  <br/>
+                  <br/>
+
+                  <p>
+                    <a name="Linkedin" href="https://www.linkedin.com/in/benjamin-r-geyer/">
+                      <FontAwesomeIcon icon={['fab', 'linkedin']} size="3x"/>
+                    </a>
+                  </p> <h4>Tech known</h4>
                   <FontAwesomeIcon icon={['fab', 'github']} size="lg"/>  Github <br/>
                   <FontAwesomeIcon icon={['fab', 'docker']} size="lg"/> Docker <br/>
                   <FontAwesomeIcon icon={['fab', 'js']} size="lg"/> Javascript <br/>
