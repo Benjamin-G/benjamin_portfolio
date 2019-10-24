@@ -19,6 +19,8 @@ const Header = (props) => (
                   <br/> <br/> <h4>Tech known:</h4>
                   <FontAwesomeIcon icon={['fab', 'github']} size="lg"/>  Github <br/>
                   <FontAwesomeIcon icon={['fab', 'js']} size="lg"/> Javascript <br/>
+                  <FontAwesomeIcon icon={['fab', 'python']} size="lg"/> Python <br/>
+
                 </p>
             </div>
         </div>
