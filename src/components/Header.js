@@ -1,5 +1,6 @@
 import React from 'react'
 import PropTypes from 'prop-types'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
@@ -14,12 +15,9 @@ const Header = (props) => (
                 <p>
                   About Me
                   <br/>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices. Habitasse platea dictumst quisque sagittis purus sit amet. Sit amet dictum sit amet justo donec enim. In mollis nunc sed id semper risus in. Ipsum faucibus vitae aliquet nec ullamcorper sit. A iaculis at erat pellentesque adipiscing. Mauris cursus mattis molestie a iaculis at erat pellentesque. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus. Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Sed arcu non odio euismod. Dui nunc mattis enim ut. Viverra nibh cras pulvinar mattis nunc sed. Blandit libero volutpat sed cras ornare arcu dui vivamus arcu. Nunc vel risus commodo viverra maecenas. Morbi tempus iaculis urna id. Varius duis at consectetur lorem donec massa. Massa enim nec dui nunc mattis enim ut tellus elementum. Lacus luctus accumsan tortor posuere ac ut consequat semper.
-                  <br/>
-                  <br/>
-                  <br/>
-                  Tech known:
-                  Javascript
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac odio tempor orci dapibus ultrices. Habitasse platea dictumst quisque sagittis purus sit amet. Sit amet dictum sit amet justo donec enim. In mollis nunc sed id semper risus in. Ipsum faucibus vitae aliquet nec ullamcorper sit. A iaculis at erat pellentesque adipiscing. 
+                  <br/> <br/> <h4>Tech known:</h4>
+                  Javascript <FontAwesomeIcon icon={['fab', 'js']} size="lg"/>
                 </p>
             </div>
         </div>

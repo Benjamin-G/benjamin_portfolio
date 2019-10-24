@@ -4,12 +4,16 @@
   "version": "1.0.0",
   "author": "Benjamin Geyer",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.7",
     "gatsby": "^2.15.28",
     "gatsby-plugin-manifest": "^2.2.20",
     "gatsby-plugin-offline": "^3.0.11",
     "gatsby-plugin-react-helmet": "^3.1.10",
     "gatsby-plugin-sass": "^2.1.17",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.0",
     "react": "^16.10.0",
     "react-dom": "^16.10.0",
     "react-helmet": "^5.2.1"
