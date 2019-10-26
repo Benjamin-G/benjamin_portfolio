@@ -1,3 +1,7 @@
+const dotenv =  require('dotenv')
+dotenv.config()
+
+
 module.exports = {
   siteMetadata: {
     title: "Benjamin Geyer - Software Engineer - San Diego, CA",
@@ -19,6 +23,17 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
+    'gatsby-plugin-offline',
+    {
+      resolve: 'gatsby-source-zesty',
+      options: {
+        email: `${process.env.EMAIL}`,
+        password: `${process.env.PASSWORD}`,
+        instanceZUID:'8-cec2d6e884-zjsq8n',
+        models: {
+          Projects:'6-d4a088a3e8-npw7b3',
+        },
+      },
+    },
   ],
 }
