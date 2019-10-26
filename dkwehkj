@@ -1,0 +1,86 @@
+[33mcommit ba28fb9a30829d121e6836958533b791d12e5fb2[m[33m ([m[1;36mHEAD -> [m[1;32mzesty_io[m[33m)[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Sat Oct 26 14:50:12 2019 -0700
+
+    zesty mostly setup, only getting a single query
+
+[33mcommit dcee24a8596466faf1747d0a7029d79396c7ee99[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Fri Oct 25 10:09:50 2019 -0700
+
+    updated portfolio
+
+[33mcommit 52451ef51525a8b7a4e57ea46b0a263d74c52bfd[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 15:46:16 2019 -0700
+
+    form spree
+
+[33mcommit 6dcb5e613ab24374c927f4cc1358708fb3e4cd7f[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 15:25:44 2019 -0700
+
+    landing page complete
+
+[33mcommit a5f7262c5d3f436db0584072acf4e7d451f35d46[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 14:27:42 2019 -0700
+
+    footer and header changed
+
+[33mcommit 86312f734dcf33b2ee5719ea69bac0d74b17d25b[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 13:49:03 2019 -0700
+
+    work done on header
+
+[33mcommit 28a58129c6288f97b42174d8d71010d9ded06d44[m[33m ([m[1;31morigin/new_feature[m[33m, [m[1;32mnew_feature[m[33m)[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 11:32:48 2019 -0700
+
+    new icon
+
+[33mcommit ad947d037e2d1be846594bddb5f2007af94f185d[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 11:24:33 2019 -0700
+
+    new icon
+
+[33mcommit 448a8d66dfc42d7253fe474fe0eb024c91ea6ac6[m
+Merge: 37e8ecb bbf4e0e
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 08:11:53 2019 -0700
+
+    Merge pull request #1 from Benjamin-G/react_icons
+    
+    React FA icons added
+
+[33mcommit bbf4e0ed492b3c191b5deda92ee74a722f9c977e[m[33m ([m[1;31morigin/react_icons[m[33m)[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Thu Oct 24 08:09:42 2019 -0700
+
+    React FA icons added
+
+[33mcommit 37e8ecb8f02fb1e51f171c6e81f4e3853a4d1224[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Wed Oct 23 15:33:16 2019 -0700
+
+    its working
+
+[33mcommit 9f58d91dbf20fe4841abc245aa180b188ffa2ae3[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Wed Oct 23 14:39:14 2019 -0700
+
+    updating font awesome
+
+[33mcommit 39d00ad290f9fbedabc604687f1a352b5e3018e0[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Mon Oct 21 22:17:35 2019 -0700
+
+    test deploy
+
+[33mcommit 7eaa34b3d49f89aeebdd36c365c172799f55827e[m
+Author: Benjamin Geyer <brgeyer49@gmail.com>
+Date:   Mon Oct 21 22:02:49 2019 -0700
+
+    initial commit
