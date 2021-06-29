@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Benjamin Geyer - Software Engineer - San Diego, CA",
-    author: "Benjamin Geyer",
-    description: "Portfolio website for Benjamin Geyer"
+    title: 'Benjamin Geyer - Software Engineer - San Diego, CA',
+    author: 'Benjamin Geyer',
+    description: 'Portfolio website for Benjamin Geyer',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -19,6 +19,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
-    'gatsby-plugin-offline'
+    'gatsby-plugin-offline',
   ],
-}
+};
