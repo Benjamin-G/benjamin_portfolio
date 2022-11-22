@@ -27,6 +27,18 @@ const Header = props => (
             <br />
             <br />
             <h4>Work Experience</h4>
+            <h5><a href='https://www.confluenceanalytics.com/' target='_blank' rel='noreferrer'>Confluence Analytics</a></h5>
+            Developed a regenerative finance (ReFi) solution called CODI (Carbon Offset
+            Direct Index). This included project guidance and specification creation,
+            analytic visualization using Highcharts, statistics and quantitative analysis
+            calculation, and full-stack implementation.
+            <br />
+            <br />
+            <h5>NuBrakes.</h5>
+            Joined an early stage start-up with a small team of developers.  Lead development in analytics, self-booking
+            and improvement of the core infrastructure. Helped onboard two engineers and a product manager.
+            <br />
+            <br />
             <h5>Biggie Inc.</h5>
             Lead and took over technology after CTO. Solutions including custom data transformations from an advanced
             web application to print size billboards. Ecommerce design and integrations with a complex web application

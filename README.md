@@ -2,9 +2,6 @@
 
 http://benjamingeyer.io
 
-
-Gatsby, Graphql and Zesty io
-
 ## Installation
 
 Install this starter (assuming Gatsby is installed) by running from your CLI:
