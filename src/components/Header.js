@@ -21,36 +21,24 @@ const Header = props => (
               textTransform: 'none',
             }}
           >
-            I am motivated software engineer in San Diego, CA. I love the web platform and interesting use cases of CS
-            concepts. Functional programming, data engineering and modern web development are some of my favorite
-            topics.
+            I am motivated software engineer in San Diego, CA. I love the web platform and interesting use cases of CS concepts. Functional programming, data engineering and modern web development are some of my favorite topics.
             <br />
             <br />
             <h4>Work Experience</h4>
             <h5><a href='https://www.confluenceanalytics.com/' target='_blank' rel='noreferrer'>Confluence Analytics</a></h5>
-            Developed a regenerative finance (ReFi) solution called CODI (Carbon Offset
-            Direct Index). This included project guidance and specification creation,
-            analytic visualization using Highcharts, statistics and quantitative analysis
-            calculation, and full-stack implementation.
+            Developed a regenerative finance (ReFi) solution called CODI (Carbon Offset Direct Index) at my previous job. This included project guidance and specification creation, analytic visualization using Highcharts, statistics and quantitative analysis calculation, and full-stack implementation.
             <br />
             <br />
-            <h5>NuBrakes.</h5>
-            Joined an early stage start-up with a small team of developers.  Lead development in analytics, self-booking
-            and improvement of the core infrastructure. Helped onboard two engineers and a product manager.
+            <h5><a href='https://nubrakes.com/' target='_blank' rel='noreferrer'>NuBrakes</a></h5>
+            Joined an early-stage start-up with a small team of developers. Led development in analytics, self-booking, and improvement of the core infrastructure. Helped onboard two engineers and a product manager.
             <br />
             <br />
-            <h5>Biggie Inc.</h5>
-            Lead and took over technology after CTO. Solutions including custom data transformations from an advanced
-            web application to print size billboards. Ecommerce design and integrations with a complex web application
-            for a custom product build from ML. API documentation, design and updates for data flows between
-            applications. Working with developer shops and contractors in a fast pace start-up close to C-Suite
-            management.
+            <h5><a href='https://www.biggiebillboards.com/' target='_blank' rel='noreferrer'>Biggie Inc.</a></h5>
+             Solutions include custom data transformations from an advanced web application to print-size billboards. E-commerce design and integrations with a complex web application for a custom product built from ML. API documentation, design, and updates for data flow between applications. Worked with developer shops and contractors in a fast pace start-up close to C-Suite management.
             <br />
             <br />
-            <h5>Permit Docs</h5>
-            Developing in a fast paced Start-Up environment. Data engineering and enhancing total user experience,
-            security and code hygiene with local and international team. Tech used Python, Golang, Bitbucket,
-            Postgresql, React, and Redux. AWS lambda, Step Functions, EC2, Cloudwatch, S3, Boto3
+            <h5><a href='https://www.crunchbase.com/organization/permitdocs' target='_blank' rel='noreferrer'>Permit Docs</a></h5>
+            Developing in a fast paced Start-Up environment. Data engineering and enhancing total user experience, security and code hygiene with local and international team. Tech used Python, Golang, Bitbucket, Postgresql, React, and Redux. AWS lambda, Step Functions, EC2, Cloudwatch, S3, Boto3.
           </div>
           <p></p>
           <h4>Connect with me on Linkedin</h4>
